@@ -499,9 +499,9 @@
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="35f2dcb6e1ce0de1ce7817377e631b15c22b51d1" upstream="refs/tags/android-11.0.0_r39"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" remote="rk" revision="bf6a0c7d9f4ec60dd9af01013f8915b9839b0fbc" upstream="refs/tags/android-11.0-mid-rkr11"/>
   <project groups="pdk-fs" name="platform/packages/apps/Browser2" path="packages/apps/Browser2" revision="37652f79d1a115bc2d920a68ad6846a23107c660" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="d1ed658e4bd2e6e4d32fb9ebea9bcf8bfb48d78b" upstream="refs/tags/android-11.0.0_r39"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="d1ed658e4bd2e6e4d32fb9ebea9bcf8bfb48d78b" upstream="refs/tags/android-11.0.0_r39"/> -->
   <project groups="pdk-fs" name="platform/packages/apps/Camera2" path="packages/apps/Camera2" remote="rk" revision="695b3d1d3336003192b1286abd19f35525f63f32" upstream="refs/tags/android-11.0-mid-rkr11"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Car/Calendar" path="packages/apps/Car/Calendar" revision="21d26e6527981180e4f33549edcfb4984cce981f" upstream="refs/tags/android-11.0.0_r39"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Car/Calendar" path="packages/apps/Car/Calendar" revision="21d26e6527981180e4f33549edcfb4984cce981f" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/Cluster" path="packages/apps/Car/Cluster" revision="8ed370795084da63d723cfac07795d07b9859e89" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/CompanionDeviceSupport" path="packages/apps/Car/CompanionDeviceSupport" revision="f16897c543dacf5618179317bb809497255d92fd" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/Dialer" path="packages/apps/Car/Dialer" revision="47fda1d262091d61b50f519ce584da9adc726b49" upstream="refs/tags/android-11.0.0_r39"/>
@@ -518,47 +518,47 @@
   <project groups="pdk-fs" name="platform/packages/apps/Car/Settings" path="packages/apps/Car/Settings" revision="84a2d7c2cbf95bf14867e14e563c8ae4aad2ccf6" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/SystemUpdater" path="packages/apps/Car/SystemUpdater" revision="d7af3a403665186388ae86628fa0a956201e69c1" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Car/libs" path="packages/apps/Car/libs" revision="bda7ad4939fbafbf309f2b045f3631ed396d4dbf" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Car/tests" path="packages/apps/Car/tests" revision="ae3c42557453a2cd94ae4b76f8cb95d8f501dda9" upstream="refs/tags/android-11.0.0_r39"/>
+  <project groups="pdk-fs" name="platform/packages/apps/Car/tests" path="packages/apps/Car/tests" revision="ae3c42557453a2cd94ae4b76f8cb95d8f501dda9" upstream="refs/tags/android-11.0.0_r39"/> -->
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CarrierConfig" path="packages/apps/CarrierConfig" revision="3fee020ed667d0fa9d190aa22703a6f65d1a64aa" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="06fee86c2b8445176558b06ff4afcea94b303f40" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="d62054b894d8e7dd9ea3ba7b676b25a5fe9dda02" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="0f33afcc7384d3596da1bc6020d15579aa7b83c9" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" remote="rk" revision="464c76c981708d498779a690e3f62683d2740f3f" upstream="refs/tags/android-11.0-mid-rkr11"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="0f33afcc7384d3596da1bc6020d15579aa7b83c9" upstream="refs/tags/android-11.0.0_r39"/>
+  <project groups="pdk-fs" name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" remote="rk" revision="464c76c981708d498779a690e3f62683d2740f3f" upstream="refs/tags/android-11.0-mid-rkr11"/> -->
   <project groups="pdk" name="platform/packages/apps/DevCamera" path="packages/apps/DevCamera" revision="d148d3a70242fc8d2975e83946f7b8b2927ab3e7" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Dialer" path="packages/apps/Dialer" revision="eb5f9ca7b8d8ff768a322a851148bcc0d8617cec" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/DocumentsUI" path="packages/apps/DocumentsUI" revision="195e1ab261aa5cc216f6342ac24c18451722f5a3" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/EmergencyInfo" path="packages/apps/EmergencyInfo" revision="4cf7e6412e4ef422cbcafd08c713af54ee76ebe9" upstream="refs/tags/android-11.0.0_r39"/>
-  <project name="platform/packages/apps/ExactCalculator" path="packages/apps/ExactCalculator" remote="rk" revision="b653f041b24dd0120a1e5ef0e48a6490f350cad9" upstream="refs/tags/android-11.0-mid-rkr11"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="ab14daba010c9306faa76b83bd3b2170e6055259" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Gallery2" path="packages/apps/Gallery2" remote="rk" revision="1b8382fb443a152d4a3511c996e553a22a2487ec" upstream="refs/tags/android-11.0-mid-rkr11"/>
+<!--   <project name="platform/packages/apps/ExactCalculator" path="packages/apps/ExactCalculator" remote="rk" revision="b653f041b24dd0120a1e5ef0e48a6490f350cad9" upstream="refs/tags/android-11.0-mid-rkr11"/> -->
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="ab14daba010c9306faa76b83bd3b2170e6055259" upstream="refs/tags/android-11.0.0_r39"/>
+  <project groups="pdk-fs" name="platform/packages/apps/Gallery2" path="packages/apps/Gallery2" remote="rk" revision="1b8382fb443a152d4a3511c996e553a22a2487ec" upstream="refs/tags/android-11.0-mid-rkr11"/> -->
   <project groups="pdk-fs" name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="2ceb86e2ed3397d17b208c224ff72297eb28cc1a" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/KeyChain" path="packages/apps/KeyChain" revision="5a55972b3886448fdedd57ea7befb8138a30ba6b" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Launcher3" path="packages/apps/Launcher3" remote="rk" revision="036d46d2bcc92603d8410ef90adfc6510294bad9" upstream="refs/tags/android-11.0-mid-rkr11"/>
   <project groups="pdk-fs" name="platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera" revision="cebfa6261715dc8c934b473b7a2d1404545c3945" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/ManagedProvisioning" path="packages/apps/ManagedProvisioning" revision="50c2517aa82965463b630ea119399c782106a319" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Messaging" path="packages/apps/Messaging" revision="cd5e0e37c14102d69baae4d98538d6c5f204f5a3" upstream="refs/tags/android-11.0.0_r39"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Messaging" path="packages/apps/Messaging" revision="cd5e0e37c14102d69baae4d98538d6c5f204f5a3" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Music" path="packages/apps/Music" remote="rk" revision="718379e3b244a0051b93ded2a70b2377634f1ea5" upstream="refs/tags/android-11.0-mid-rkr11"/>
-  <project groups="pdk-fs" name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="954665bfbf1a3190ce35ef10ed20b40da78b70d8" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="apps_nfc,pdk-fs" name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="84f2c38685ddbfec579c3fe7e92c940c89e03941" upstream="refs/tags/android-11.0.0_r39"/>
+  <project groups="pdk-fs" name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="954665bfbf1a3190ce35ef10ed20b40da78b70d8" upstream="refs/tags/android-11.0.0_r39"/> -->
+<!--   <project groups="apps_nfc,pdk-fs" name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="84f2c38685ddbfec579c3fe7e92c940c89e03941" upstream="refs/tags/android-11.0.0_r39"/> -->
   <project groups="pdk-fs" name="platform/packages/apps/OnDeviceAppPrediction" path="packages/apps/OnDeviceAppPrediction" revision="ee2d2f15cb5458756c4a882c5a2cd9a77b8b1034" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="737b0d2daabf33a458ed754e045b2f0e2b65da70" upstream="refs/tags/android-11.0.0_r39"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/OneTimeInitializer" path="packages/apps/OneTimeInitializer" revision="737b0d2daabf33a458ed754e045b2f0e2b65da70" upstream="refs/tags/android-11.0.0_r39"/> -->
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/PackageInstaller" path="packages/apps/PermissionController" revision="66a963a347ba667a695b702ae31e2a1ed30be585" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-cw-fs,pdk-fs" name="platform/packages/apps/PhoneCommon" path="packages/apps/PhoneCommon" revision="12067d42c5c1741d637d3e3183fa87a14fff1158" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="277f2db1a9099d5aaf96d4f3ca8daaeeeeef4e6f" upstream="refs/tags/android-11.0.0_r39"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="277f2db1a9099d5aaf96d4f3ca8daaeeeeef4e6f" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="a169fa4647c818fbebe1a24ebbc18ec746133adb" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/QuickAccessWallet" path="packages/apps/QuickAccessWallet" revision="2647f1a9544e5e9ff57cc9b7dfb404dbba701ddc" upstream="refs/tags/android-11.0.0_r39"/>
+  <project groups="pdk-fs" name="platform/packages/apps/QuickAccessWallet" path="packages/apps/QuickAccessWallet" revision="2647f1a9544e5e9ff57cc9b7dfb404dbba701ddc" upstream="refs/tags/android-11.0.0_r39"/> -->
   <project groups="pdk-fs" name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="e4cfbe279dd82ed587a20ab599f3ae6f55c4fc1f" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/SafetyRegulatoryInfo" path="packages/apps/SafetyRegulatoryInfo" revision="10aef16e62c42aeade377738669e8b042278691d" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/SampleLocationAttribution" path="packages/apps/SampleLocationAttribution" revision="c7952bab7ab6127649d0f4e2d9d67f4af014fb82" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="apps_se,pdk-fs" name="platform/packages/apps/SecureElement" path="packages/apps/SecureElement" revision="57ba8db9d456de7ce36303676d5238021c96be50" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/Settings" path="packages/apps/Settings" remote="rk" revision="76d796d9f9c4ef5309ab625f3b7dd6df3113f31c" upstream="refs/tags/android-11.0-mid-rkr11"/>
   <project groups="pdk-fs" name="platform/packages/apps/SettingsIntelligence" path="packages/apps/SettingsIntelligence" revision="9233d2dfb8a3742d9b8986163760dae763e2c7f7" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" remote="rk" revision="73cdfb7a9ab55943fc7c2c731d9464dbf6c5ddca" upstream="refs/tags/android-11.0-mid-rkr11"/>
+<!--   <project groups="pdk-fs" name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" remote="rk" revision="73cdfb7a9ab55943fc7c2c731d9464dbf6c5ddca" upstream="refs/tags/android-11.0-mid-rkr11"/> -->
   <project groups="pdk-fs" name="platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="f3d46ceeecd71c5555939f32643c18c78ae7909f" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="apps_stk,pdk-fs" name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="43e571fc1637cae6a3619aadb970d9ca4afdd308" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/StorageManager" path="packages/apps/StorageManager" revision="b53a0e867f73afa89087284b72718d1bc7451f49" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk" name="platform/packages/apps/TV" path="packages/apps/TV" revision="6f600bc753cd6bfbe7c4ae85b46f9633259b035d" upstream="refs/tags/android-11.0.0_r39"/>
-  <project groups="pdk-fs" name="platform/packages/apps/Tag" path="packages/apps/Tag" revision="9998735324fbabba6c787e823daf9d99b7fda0d6" upstream="refs/tags/android-11.0.0_r39"/>
+<!--   <project groups="pdk" name="platform/packages/apps/TV" path="packages/apps/TV" revision="6f600bc753cd6bfbe7c4ae85b46f9633259b035d" upstream="refs/tags/android-11.0.0_r39"/> -->
+<!--   <project groups="pdk-fs" name="platform/packages/apps/Tag" path="packages/apps/Tag" revision="9998735324fbabba6c787e823daf9d99b7fda0d6" upstream="refs/tags/android-11.0.0_r39"/> -->
   <project groups="pdk-fs" name="platform/packages/apps/Terminal" path="packages/apps/Terminal" revision="4d4e9490fdd512668ac0d47764f3eeb19504a6d2" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk" name="platform/packages/apps/Test/connectivity" path="packages/apps/Test/connectivity" revision="22d6ee33637f78f91e78195ebe84fb0ca0639bf0" upstream="refs/tags/android-11.0.0_r39"/>
   <project groups="pdk-fs" name="platform/packages/apps/ThemePicker" path="packages/apps/ThemePicker" revision="d7768bf37d7fbb732fe30d9473bda7614f9b0743" upstream="refs/tags/android-11.0.0_r39"/>
